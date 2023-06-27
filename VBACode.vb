@@ -5,8 +5,8 @@ Sub StockAnalysis()
     Dim firstrow As Double
     Dim currentrow As Double
     Dim lastrow As Double
-    Dim openyear As Single
-    Dim closingyear As Single
+    Dim openyear As Double
+    Dim closingyear As Double
     Dim totalvolume As Double
 
     
